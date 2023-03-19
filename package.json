@@ -1,0 +1,16 @@
+{
+  "name": "node-horoscope-generator",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Node CLI app that uses the OpenAI API to create a horoscope and save it as a markdown file.",
+  "main": "createHoroscope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis Hodges",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}

@@ -1,0 +1,5 @@
+# (required) API key needed to generate content using the OpenAI API
+OPENAI_API_KEY = 
+
+# (optional) the directory in which to save output markdown files
+NHG_OUTPUT_DIRECTORY = 
